@@ -1,0 +1,13 @@
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.exe
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.deps.json
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.runtimeconfig.json
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.dll
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\bin\Debug\netcoreapp3.1\EoqdoLearningGit.pdb
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.dll
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.pdb
+C:\Users\Daniel\source\repos\EoqdoLearningGit\EoqdoLearningGit\obj\Debug\netcoreapp3.1\EoqdoLearningGit.genruntimeconfig.cache
